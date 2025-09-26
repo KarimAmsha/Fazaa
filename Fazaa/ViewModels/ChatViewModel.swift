@@ -5,10 +5,6 @@
 //  Created by Karim OTHMAN on 8.05.2025.
 //
 
-//  ChatViewModel.swift
-//  FreelanceApp
-//  Created by Karim OTHMAN on 8.05.2025.
-
 import SwiftUI
 import FirebaseDatabase
 import FirebaseMessaging
